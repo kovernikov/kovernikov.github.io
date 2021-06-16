@@ -1,2 +1,2 @@
 
-### Application launch link  [App link](https://kovernikov.github.io).
+###   [Application launch link](https://kovernikov.github.io).
